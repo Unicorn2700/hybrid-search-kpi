@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+rank-bm25
+sentence-transformers
+faiss-cpu
+numpy
+pandas
+tqdm
+streamlit
+pytest
+python-json-logger
+matplotlib

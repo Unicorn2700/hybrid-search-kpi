@@ -1,0 +1,5 @@
+
+        Document 266 discusses python programming.
+        python programming is an important field in modern technology.
+        Many systems rely on python programming for intelligent decision making.
+        
