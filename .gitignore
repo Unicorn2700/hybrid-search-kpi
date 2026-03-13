@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+
+# Indexes
+backend/data/index/
+
+# Generated data
+data/processed/
+data/raw/
+
+# Metrics outputs
+data/metrics/*.db
+data/metrics/*.csv
+
+# OS
+.DS_Store
+Thumbs.db
