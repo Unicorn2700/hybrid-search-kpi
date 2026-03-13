@@ -10,3 +10,4 @@ streamlit
 pytest
 python-json-logger
 matplotlib
+pytest
